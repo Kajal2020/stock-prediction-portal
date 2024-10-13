@@ -14,7 +14,7 @@ const Main = () => {
                 hfuieytnbtgui t5uyerne4 t
                 tgitu95 pp jopio780hfjrb3438y099ewuiwgefh hyur4hnbeyr.
             </p>
-            <Button text='Login' class='btn-info'/>
+            <Button text='Explore Now' class='btn-info' url="/dashboard"/>
         </div>
    </div>
   
