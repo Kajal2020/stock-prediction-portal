@@ -45,7 +45,7 @@ const Login = () => {
                 <h3 className='text-light text-center mb-4'>Log in Account</h3>
                 <form onSubmit={handleLogin}>
                     <div className='mb-3'>
-                        <input type='text' className='form-control ' placeholder='Username' value={username} onChange={(e) => setUsername(e.target.value)}/>
+                        <input type='text' className='form-control ' placeholder='Username' value={username} onChange={(e) => setUsername(e.target.value)} />
                         
                     </div>
                     
